@@ -4,7 +4,7 @@
     "NewVersionUrl": "http://somewhere.com/Launch.zip"
   },
   "LoginServerUrl": "https://raw.githubusercontent.com/bkundev/TGS_Free_ALL/main/LoginServer.txt",
-  "LatestVersion": "1.00.00",
+  "LatestVersion": "1.00.01",
   "Patches": [
     {
       "VersionFrom": "1.00.00",
