@@ -6,10 +6,10 @@
   "LoginServerUrl": "https://raw.githubusercontent.com/bkundev/TGS_Free_ALL/main/LoginServer.txt",
   "LatestVersion": "1.00.00",
   "Patches": [
-    //{
-      //"VersionFrom": "1.00.00",
-      //"VersionTo": "1.00.01",
-     // "Url": "http://somewhere.com/update-patch-1.00.00-1.00.01.zip"
-    //}
+    {
+      "VersionFrom": "1.00.00",
+      "VersionTo": "1.00.00",
+      "Url": ""
+    }
   ]
 }
