@@ -1,7 +1,6 @@
 {
   "Launch": { 
-    "LatestVersion": 17,
-    "NewVersionUrl": "http://somewhere.com/Launch.zip"
+    "LatestVersion": 17
   },
   "LoginServerUrl": "https://raw.githubusercontent.com/bkundev/TGS_Free_ALL/main/LoginServer.txt",
   "LatestVersion": "1.00.01",
